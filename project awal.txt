@@ -1,4 +1,4 @@
--mendownload android studio
+hari pertama 
 -mencoba membuat menu login
 -membuat dashboard
 -mencoba menghubungkan menu login dengan dashboard menggunakan intent
